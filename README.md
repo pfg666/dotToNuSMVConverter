@@ -9,9 +9,9 @@ Easiest way to run is by importing the project into eclipse and running the main
 and supplying a dot model from the 'resources' directory. 
 
 # Final Notes
-The code has been copied/adapted from the repository housing work done for the publication mentioned in the introduction. Due to 
-privacy concerns, this repository is not accessible. This tool however, bears no such concerns, so I thought it was better if we made 
-it available. 
+The code has been copied/adapted from the repository for work relevant to the publication mentioned in the introduction. Due to 
+privacy concerns, this repository is not accessible. This tool, however, bears no such concerns, so it could be extracted. 
+The code is a bit nasty, but works for the most part. 
 
 [SSH]: http://spinroot.com/spin/symposia/ws17/SPIN_2017_paper_30.pdf
 [SSH-MAPPER]: https://gitlab.science.ru.nl/pfiteraubrostean/ssh-mapper
