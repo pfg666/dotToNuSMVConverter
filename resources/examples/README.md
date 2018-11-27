@@ -1,0 +1,1 @@
+This directory contains sample input files which can be passed to the converter tool.
